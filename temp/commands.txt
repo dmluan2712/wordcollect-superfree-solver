@@ -1,0 +1,84 @@
+# Word: ERE
+adb shell "cmd input motionevent DOWN 328 1845 && sleep 0.02 && cmd input motionevent MOVE 542 1474 && sleep 0.02 && cmd input motionevent MOVE 328 1598 && sleep 0.02 && cmd input motionevent UP 328 1598"
+# Word: ERG
+adb shell "cmd input motionevent DOWN 328 1845 && sleep 0.02 && cmd input motionevent MOVE 542 1474 && sleep 0.02 && cmd input motionevent MOVE 539 1969 && sleep 0.02 && cmd input motionevent UP 539 1969"
+# Word: ERS
+adb shell "cmd input motionevent DOWN 328 1845 && sleep 0.02 && cmd input motionevent MOVE 542 1474 && sleep 0.02 && cmd input motionevent MOVE 754 1598 && sleep 0.02 && cmd input motionevent UP 754 1598"
+# Word: EYE
+adb shell "cmd input motionevent DOWN 328 1845 && sleep 0.02 && cmd input motionevent MOVE 753 1845 && sleep 0.02 && cmd input motionevent MOVE 328 1598 && sleep 0.02 && cmd input motionevent UP 328 1598"
+# Word: GEE
+adb shell "cmd input motionevent DOWN 539 1969 && sleep 0.02 && cmd input motionevent MOVE 328 1845 && sleep 0.02 && cmd input motionevent MOVE 328 1598 && sleep 0.02 && cmd input motionevent UP 328 1598"
+# Word: GER
+adb shell "cmd input motionevent DOWN 539 1969 && sleep 0.02 && cmd input motionevent MOVE 328 1845 && sleep 0.02 && cmd input motionevent MOVE 542 1474 && sleep 0.02 && cmd input motionevent UP 542 1474"
+# Word: GEY
+adb shell "cmd input motionevent DOWN 539 1969 && sleep 0.02 && cmd input motionevent MOVE 328 1845 && sleep 0.02 && cmd input motionevent MOVE 753 1845 && sleep 0.02 && cmd input motionevent UP 753 1845"
+# Word: REE
+adb shell "cmd input motionevent DOWN 542 1474 && sleep 0.02 && cmd input motionevent MOVE 328 1845 && sleep 0.02 && cmd input motionevent MOVE 328 1598 && sleep 0.02 && cmd input motionevent UP 328 1598"
+# Word: REG
+adb shell "cmd input motionevent DOWN 542 1474 && sleep 0.02 && cmd input motionevent MOVE 328 1845 && sleep 0.02 && cmd input motionevent MOVE 539 1969 && sleep 0.02 && cmd input motionevent UP 539 1969"
+# Word: RES
+adb shell "cmd input motionevent DOWN 542 1474 && sleep 0.02 && cmd input motionevent MOVE 328 1845 && sleep 0.02 && cmd input motionevent MOVE 754 1598 && sleep 0.02 && cmd input motionevent UP 754 1598"
+# Word: RYE
+adb shell "cmd input motionevent DOWN 542 1474 && sleep 0.02 && cmd input motionevent MOVE 753 1845 && sleep 0.02 && cmd input motionevent MOVE 328 1845 && sleep 0.02 && cmd input motionevent UP 328 1845"
+# Word: SEE
+adb shell "cmd input motionevent DOWN 754 1598 && sleep 0.02 && cmd input motionevent MOVE 328 1845 && sleep 0.02 && cmd input motionevent MOVE 328 1598 && sleep 0.02 && cmd input motionevent UP 328 1598"
+# Word: SEG
+adb shell "cmd input motionevent DOWN 754 1598 && sleep 0.02 && cmd input motionevent MOVE 328 1845 && sleep 0.02 && cmd input motionevent MOVE 539 1969 && sleep 0.02 && cmd input motionevent UP 539 1969"
+# Word: SER
+adb shell "cmd input motionevent DOWN 754 1598 && sleep 0.02 && cmd input motionevent MOVE 328 1845 && sleep 0.02 && cmd input motionevent MOVE 542 1474 && sleep 0.02 && cmd input motionevent UP 542 1474"
+# Word: YES
+adb shell "cmd input motionevent DOWN 753 1845 && sleep 0.02 && cmd input motionevent MOVE 328 1845 && sleep 0.02 && cmd input motionevent MOVE 754 1598 && sleep 0.02 && cmd input motionevent UP 754 1598"
+# Word: YRE
+adb shell "cmd input motionevent DOWN 753 1845 && sleep 0.02 && cmd input motionevent MOVE 542 1474 && sleep 0.02 && cmd input motionevent MOVE 328 1845 && sleep 0.02 && cmd input motionevent UP 328 1845"
+# Word: EERY
+adb shell "cmd input motionevent DOWN 328 1845 && sleep 0.02 && cmd input motionevent MOVE 328 1598 && sleep 0.02 && cmd input motionevent MOVE 542 1474 && sleep 0.02 && cmd input motionevent MOVE 753 1845 && sleep 0.02 && cmd input motionevent UP 753 1845"
+# Word: EGER
+adb shell "cmd input motionevent DOWN 328 1845 && sleep 0.02 && cmd input motionevent MOVE 539 1969 && sleep 0.02 && cmd input motionevent MOVE 328 1598 && sleep 0.02 && cmd input motionevent MOVE 542 1474 && sleep 0.02 && cmd input motionevent UP 542 1474"
+# Word: ERGS
+adb shell "cmd input motionevent DOWN 328 1845 && sleep 0.02 && cmd input motionevent MOVE 542 1474 && sleep 0.02 && cmd input motionevent MOVE 539 1969 && sleep 0.02 && cmd input motionevent MOVE 754 1598 && sleep 0.02 && cmd input motionevent UP 754 1598"
+# Word: EYER
+adb shell "cmd input motionevent DOWN 328 1845 && sleep 0.02 && cmd input motionevent MOVE 753 1845 && sleep 0.02 && cmd input motionevent MOVE 328 1598 && sleep 0.02 && cmd input motionevent MOVE 542 1474 && sleep 0.02 && cmd input motionevent UP 542 1474"
+# Word: EYES
+adb shell "cmd input motionevent DOWN 328 1845 && sleep 0.02 && cmd input motionevent MOVE 753 1845 && sleep 0.02 && cmd input motionevent MOVE 328 1598 && sleep 0.02 && cmd input motionevent MOVE 754 1598 && sleep 0.02 && cmd input motionevent UP 754 1598"
+# Word: EYRE
+adb shell "cmd input motionevent DOWN 328 1845 && sleep 0.02 && cmd input motionevent MOVE 753 1845 && sleep 0.02 && cmd input motionevent MOVE 542 1474 && sleep 0.02 && cmd input motionevent MOVE 328 1598 && sleep 0.02 && cmd input motionevent UP 328 1598"
+# Word: GEES
+adb shell "cmd input motionevent DOWN 539 1969 && sleep 0.02 && cmd input motionevent MOVE 328 1845 && sleep 0.02 && cmd input motionevent MOVE 328 1598 && sleep 0.02 && cmd input motionevent MOVE 754 1598 && sleep 0.02 && cmd input motionevent UP 754 1598"
+# Word: GERS
+adb shell "cmd input motionevent DOWN 539 1969 && sleep 0.02 && cmd input motionevent MOVE 328 1845 && sleep 0.02 && cmd input motionevent MOVE 542 1474 && sleep 0.02 && cmd input motionevent MOVE 754 1598 && sleep 0.02 && cmd input motionevent UP 754 1598"
+# Word: GREE
+adb shell "cmd input motionevent DOWN 539 1969 && sleep 0.02 && cmd input motionevent MOVE 542 1474 && sleep 0.02 && cmd input motionevent MOVE 328 1845 && sleep 0.02 && cmd input motionevent MOVE 328 1598 && sleep 0.02 && cmd input motionevent UP 328 1598"
+# Word: GREY
+adb shell "cmd input motionevent DOWN 539 1969 && sleep 0.02 && cmd input motionevent MOVE 542 1474 && sleep 0.02 && cmd input motionevent MOVE 328 1845 && sleep 0.02 && cmd input motionevent MOVE 753 1845 && sleep 0.02 && cmd input motionevent UP 753 1845"
+# Word: GYRE
+adb shell "cmd input motionevent DOWN 539 1969 && sleep 0.02 && cmd input motionevent MOVE 753 1845 && sleep 0.02 && cmd input motionevent MOVE 542 1474 && sleep 0.02 && cmd input motionevent MOVE 328 1845 && sleep 0.02 && cmd input motionevent UP 328 1845"
+# Word: REES
+adb shell "cmd input motionevent DOWN 542 1474 && sleep 0.02 && cmd input motionevent MOVE 328 1845 && sleep 0.02 && cmd input motionevent MOVE 328 1598 && sleep 0.02 && cmd input motionevent MOVE 754 1598 && sleep 0.02 && cmd input motionevent UP 754 1598"
+# Word: REGS
+adb shell "cmd input motionevent DOWN 542 1474 && sleep 0.02 && cmd input motionevent MOVE 328 1845 && sleep 0.02 && cmd input motionevent MOVE 539 1969 && sleep 0.02 && cmd input motionevent MOVE 754 1598 && sleep 0.02 && cmd input motionevent UP 754 1598"
+# Word: RYES
+adb shell "cmd input motionevent DOWN 542 1474 && sleep 0.02 && cmd input motionevent MOVE 753 1845 && sleep 0.02 && cmd input motionevent MOVE 328 1845 && sleep 0.02 && cmd input motionevent MOVE 754 1598 && sleep 0.02 && cmd input motionevent UP 754 1598"
+# Word: SEER
+adb shell "cmd input motionevent DOWN 754 1598 && sleep 0.02 && cmd input motionevent MOVE 328 1845 && sleep 0.02 && cmd input motionevent MOVE 328 1598 && sleep 0.02 && cmd input motionevent MOVE 542 1474 && sleep 0.02 && cmd input motionevent UP 542 1474"
+# Word: SERE
+adb shell "cmd input motionevent DOWN 754 1598 && sleep 0.02 && cmd input motionevent MOVE 328 1845 && sleep 0.02 && cmd input motionevent MOVE 542 1474 && sleep 0.02 && cmd input motionevent MOVE 328 1598 && sleep 0.02 && cmd input motionevent UP 328 1598"
+# Word: YERE
+adb shell "cmd input motionevent DOWN 753 1845 && sleep 0.02 && cmd input motionevent MOVE 328 1845 && sleep 0.02 && cmd input motionevent MOVE 542 1474 && sleep 0.02 && cmd input motionevent MOVE 328 1598 && sleep 0.02 && cmd input motionevent UP 328 1598"
+# Word: EGERS
+adb shell "cmd input motionevent DOWN 328 1845 && sleep 0.02 && cmd input motionevent MOVE 539 1969 && sleep 0.02 && cmd input motionevent MOVE 328 1598 && sleep 0.02 && cmd input motionevent MOVE 542 1474 && sleep 0.02 && cmd input motionevent MOVE 754 1598 && sleep 0.02 && cmd input motionevent UP 754 1598"
+# Word: EYERS
+adb shell "cmd input motionevent DOWN 328 1845 && sleep 0.02 && cmd input motionevent MOVE 753 1845 && sleep 0.02 && cmd input motionevent MOVE 328 1598 && sleep 0.02 && cmd input motionevent MOVE 542 1474 && sleep 0.02 && cmd input motionevent MOVE 754 1598 && sleep 0.02 && cmd input motionevent UP 754 1598"
+# Word: EYRES
+adb shell "cmd input motionevent DOWN 328 1845 && sleep 0.02 && cmd input motionevent MOVE 753 1845 && sleep 0.02 && cmd input motionevent MOVE 542 1474 && sleep 0.02 && cmd input motionevent MOVE 328 1598 && sleep 0.02 && cmd input motionevent MOVE 754 1598 && sleep 0.02 && cmd input motionevent UP 754 1598"
+# Word: GREES
+adb shell "cmd input motionevent DOWN 539 1969 && sleep 0.02 && cmd input motionevent MOVE 542 1474 && sleep 0.02 && cmd input motionevent MOVE 328 1845 && sleep 0.02 && cmd input motionevent MOVE 328 1598 && sleep 0.02 && cmd input motionevent MOVE 754 1598 && sleep 0.02 && cmd input motionevent UP 754 1598"
+# Word: GREYS
+adb shell "cmd input motionevent DOWN 539 1969 && sleep 0.02 && cmd input motionevent MOVE 542 1474 && sleep 0.02 && cmd input motionevent MOVE 328 1845 && sleep 0.02 && cmd input motionevent MOVE 753 1845 && sleep 0.02 && cmd input motionevent MOVE 754 1598 && sleep 0.02 && cmd input motionevent UP 754 1598"
+# Word: GYRES
+adb shell "cmd input motionevent DOWN 539 1969 && sleep 0.02 && cmd input motionevent MOVE 753 1845 && sleep 0.02 && cmd input motionevent MOVE 542 1474 && sleep 0.02 && cmd input motionevent MOVE 328 1845 && sleep 0.02 && cmd input motionevent MOVE 754 1598 && sleep 0.02 && cmd input motionevent UP 754 1598"
+# Word: REGES
+adb shell "cmd input motionevent DOWN 542 1474 && sleep 0.02 && cmd input motionevent MOVE 328 1845 && sleep 0.02 && cmd input motionevent MOVE 539 1969 && sleep 0.02 && cmd input motionevent MOVE 328 1598 && sleep 0.02 && cmd input motionevent MOVE 754 1598 && sleep 0.02 && cmd input motionevent UP 754 1598"
+# Word: SERGE
+adb shell "cmd input motionevent DOWN 754 1598 && sleep 0.02 && cmd input motionevent MOVE 328 1845 && sleep 0.02 && cmd input motionevent MOVE 542 1474 && sleep 0.02 && cmd input motionevent MOVE 539 1969 && sleep 0.02 && cmd input motionevent MOVE 328 1598 && sleep 0.02 && cmd input motionevent UP 328 1598"
+# Word: GEYSER
+adb shell "cmd input motionevent DOWN 539 1969 && sleep 0.02 && cmd input motionevent MOVE 328 1845 && sleep 0.02 && cmd input motionevent MOVE 753 1845 && sleep 0.02 && cmd input motionevent MOVE 754 1598 && sleep 0.02 && cmd input motionevent MOVE 328 1598 && sleep 0.02 && cmd input motionevent MOVE 542 1474 && sleep 0.02 && cmd input motionevent UP 542 1474"
