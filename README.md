@@ -1,4 +1,4 @@
-# Crossword-Go (PlaySimple) Solver
+# Word Collect (by Super Free Games) Solver
 
 Another Python-based CLI automation tool to solve the Android game [**Word Collect** by **Superfree**](https://play.google.com/store/apps/details?id=com.platinumplayer.word.addict&hl=en-US). 
 
