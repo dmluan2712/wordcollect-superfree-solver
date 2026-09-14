@@ -9,7 +9,7 @@ def send_tap(x, y):
 	cmd = [ADB_PATH, "shell", "input", "tap", str(x), str(y)]
 	try:
 		subprocess.run(cmd, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-		print(f"Executed Tap: ({x}, {y})")
+		#print(f"Executed Tap: ({x}, {y})") ## uncomment to debug
 
 	except subprocess.CalledProcessError:
 		print("Error: Failed to execute ADB command. Is your device connected?")
@@ -42,6 +42,6 @@ def start_level():
 		send_tap(540,1940) # collect coin button
 		print("Sent tap to collect coins") ## uncomment to debug
 			
-	time.sleep(3)
+	time.sleep(1)
 
 			

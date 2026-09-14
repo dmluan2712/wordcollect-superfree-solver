@@ -54,7 +54,7 @@ def capture_and_process():
 	gray_roi = cv2.cvtColor(wheel_roi, cv2.COLOR_BGR2GRAY)
 	detected_letters = []
 	
-	print(f"[Debug] Found {len(tile_boxes)} letter tile buttons on wheel.")
+	#print(f"[Debug] Found {len(tile_boxes)} letter tile buttons on wheel.") ## uncomment to debug
 
 	# --- STEP 2: EXTRACT TIGHT LETTER CONTOUR FROM INSIDE EACH TILE ---
 	crop_idx = 1
@@ -109,7 +109,7 @@ def capture_and_process():
 		# Save grayscale crop
 		temp_path = os.path.join("temp", f"{crop_idx}.png")
 		cv2.imwrite(temp_path, result)
-		print(f"  -> Saved crop #{crop_idx} ({lw}x{lh}px) to {temp_path}")
+		#print(f"  -> Saved crop #{crop_idx} ({lw}x{lh}px) to {temp_path}") ## uncomment to debug
 		
 		# Compute screen absolute center position of the letter tile (for swiping)
 		center_x = tx + (tw // 2)
@@ -137,12 +137,12 @@ def capture_and_process():
 				if best_val >= 0.9:
 					matched_char = char_label.upper()
  
-		if matched_char:
-			print(f"Matched successful to letter {matched_char} with score {best_val}")		
+		#if matched_char:
+		#	print(f"Matched successful to letter {matched_char} with score {best_val}")	## uncomment to debug	
 	
 		# --- EASYOCR FALLBACK ---
 		if not matched_char:
-			print("Template matching fail, fall-back to OCR")
+			#print("Template matching fail, fall-back to OCR") ## uncomment to debug
 			padded_gray = cv2.copyMakeBorder(
 				scaled_letter_gray, 
 				15, 15, 15, 15, 

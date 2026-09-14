@@ -70,11 +70,11 @@ def detect_logo(image_file, button_path, confidence_threshold = 0.85):
 				
 	# STEP 2: see if the two image matches
 	if highest_score >= confidence_threshold:
-		print(f"{button_path} score check: {highest_score}") ## uncomment for debugging
+		#print(f"{button_path} score check: {highest_score}") ## uncomment to debug
 		return True		
 
 	else:
-		#print(f"{button_path} score check: {highest_score}") ## uncomment for debugging
+		#print(f"{button_path} score check: {highest_score}") ## uncomment to debug
 		return False
 
 # --- Example Usage ---

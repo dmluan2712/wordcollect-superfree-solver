@@ -49,7 +49,7 @@ def find_valid_words(letter_data):
 	num_letters = len(available_chars)
 	
 	if not available_chars:
-		print("[Solver] No valid letters recognized.")
+		#print("[Solver] No valid letters recognized.") ## uncomment to debug
 		return []
 
 	letters_count = Counter(available_chars)
@@ -93,10 +93,10 @@ def find_valid_words(letter_data):
 	return valid_results
 
 def solve_current_level():
-	print("[1/2] Processing game image...")
+	#print("[1/2] Processing game image...") ##uncomment to debug
 	detected_letters = capture_and_process()
 	
-	print(f"\n[2/2] Solving dictionary words for: {[item['char'] for item in detected_letters]}")
+	#print(f"\n[2/2] Solving dictionary words for: {[item['char'] for item in detected_letters]}") ##uncomment to debug
 	found_words = find_valid_words(detected_letters)
 	
 	return found_words

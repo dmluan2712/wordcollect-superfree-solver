@@ -98,8 +98,9 @@ def main():
 				execute_level()		
 				#send_tap(540,1850) # tap continue if possible
 			
-				print("Next level starts in 3 seconds...")
-				time.sleep(3)
+				sec = 1
+				print(f"Next level starts in {sec} seconds...")
+				time.sleep(sec)
 				
 			except KeyboardInterrupt:
 				print("\n[Play] Program interrupted by user.")
